@@ -2,12 +2,12 @@ const base = import.meta.env.BASE_URL
 
 const projects = [
   {
-    name: "Global AQI Analytics Dashboard",
-    description: "Advanced environmental monitoring Tableau dashboard providing comprehensive insights into global Air Quality Index (AQI) trends, solutions, and regional comparisons.",
-    image: `${base}fatal_shootings.png`,
+    name: "Beijing AQI Analysis",
+    description: "Advanced environmental monitoring Tableau dashboard providing comprehensive insights into Beijing Air Quality Index (AQI) trends, solutions, and regional comparisons.",
+    image: `${base}tableau.png`,
     tags: ["tableau", "dashboard", "data-viz", "environment"],
     github: "#",
-    live: "https://public.tableau.com/app/profile/ranvendra.pratap.singh/viz/US_Fatal_Shooting-ByRanvendra/Dashboard3-Impact?publish=yes"
+    live: "https://public.tableau.com/app/profile/milind.bansal5979/viz/DVA2-Capstone/RiskSeverityOverview?publish=yes"
   },
   {
     name: "AI at Work: Efficiency vs Stability",
@@ -15,7 +15,7 @@ const projects = [
     image: `${base}project3.png`,
     tags: ["dashboard", "data-viz", "analytics"],
     github: "#",
-    live: "https://docs.google.com/spreadsheets/d/1hXWgkVV1PRSaZfl86P68GkNQflubBdjYmwfvNE2n8Pk/edit?gid=1369173376#gid=1369173376"
+    live: "https://docs.google.com/spreadsheets/d/1_REKBw5KG179siHzYb7lHJGNnMKlBQmcrzcNTNOrUrg/edit?usp=sharing"
   },
   {
     name: "Valuation Ratio Analysis",
